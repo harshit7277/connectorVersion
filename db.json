@@ -1,9 +1,8 @@
-
-        {   
-            "resourceId": 1,
-            "createdTime": "2020-10-31T13:05:30.323111+05:30",
-            "lastUpdatedTime": "2020-10-31T13:05:30.323111+05:30",
-            "connectorVersion": "1.0.0.1",
-            "serverPath": "server/connector"
-        }
+{   
+      "resourceId": 1,
+      "createdTime": "2020-10-31T13:05:30.323111+05:30",
+      "lastUpdatedTime": "2020-10-31T13:05:30.323111+05:30",
+      "connectorVersion": "1.0.0.1",
+      "serverPath": "server/connector"
+}
  
